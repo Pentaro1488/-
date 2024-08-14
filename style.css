@@ -1,0 +1,39 @@
+header{
+    height: 550px;
+    background-color: rgb(240, 240, 240);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding: 80px;
+    font-size: 80px;
+    background-size: cover;
+    background-image: url(https://energy-wind.md/wp-content/uploads/2023/04/siemens-gamesa3.jpg)                                                              ;
+}
+
+body{
+    margin: 0px;
+}
+
+main{
+    background-color: rgb(255, 255, 255);
+    font-size: 30px;
+    padding: 45px;
+    text-align: left;
+    background-size: 100px;
+}
+footer{
+    background-color: aliceblue;
+    color: black;
+    text-align: center;
+    padding: 5px;
+    height: 80px; 
+}
+.social img{
+    align-items: right;
+    padding-left: 0px;
+}
+.social{
+    list-style: none;
+    display: flex;
+    align-items: left;
+    justify-content: center;
+}
